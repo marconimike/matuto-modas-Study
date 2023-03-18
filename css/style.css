@@ -116,4 +116,23 @@ nav a:hover {
 
  }
 
+ shop-main {
+    width: 80%;
+    padding: 0 0 0 10%;
+ }
  
+ .map {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+    
+ }
+ 
+ .map-content {
+    width: 940px;
+    margin: 0 auto;
+ }
+ 
+ .map p {
+    margin: 0 0 2em;
+    text-align: center;
+ }
